@@ -25,10 +25,6 @@ Fırat Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Yapay z
 
 - **Kredi Tahmin Modeli:** Müşterilerin kredi başvurularının onaylanıp onaylanmayacağını tahmin eden bir makine öğrenimi modeli. [Proje Reposu](https://github.com/zuleyhakezerr/KREDI-TAHMIN)
 
-## 📈 GitHub İstatistiklerim
-
-![Züleyha'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=zuleyhakezerr&show_icons=true&theme=radical)
-
 ## 📫 Bana Ulaşın
 
 - **E-posta:** zuleyha.kezerr@gmail.com
@@ -38,9 +34,3 @@ Fırat Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Yapay z
 
 - **Fırat Üniversitesi**, Yazılım Mühendisliği (2021 - 2025)
 
-## 🌟 Sertifikalar
-
-- **Yapay Zeka ve Makine Öğrenimi** - [BTK]
-- **Veri Mühendisliği Uzmanlığı** - [UDEMY]
-
----
