@@ -28,7 +28,7 @@ Fırat Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Yapay z
 ## 📫 Bana Ulaşın
 
 - **E-posta:** zuleyha.kezerr@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/züleyha-kezer-b38534297/)
+- **LinkedIn:** [https://www.linkedin.com/in/züleyha-kezer-b38534297/]
 
 ## 🎓 Eğitim
 
